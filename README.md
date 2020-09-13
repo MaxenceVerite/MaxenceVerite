@@ -9,9 +9,9 @@ Hit me up, i love to meet new people 😄
 
 
 
-#####  🙋‍♂️[How do you describe your self?](#self)
-#####  ✊  [What do you stand for?](#values)
-#####  💻 [Why did you become a developper?](#fieldmotivation)
+##### 🙋🏻‍♂️[How do you describe your self?](#self)
+##### ✊  [What do you stand for?](#values)
+##### 💻 [Why did you become a developper?](#fieldmotivation)
 ##### 🧰  [What technologies are you using and interested in?](#techs)
 ##### 🚵 [What do you spend your time on when you're not working](#hobbies)(in progress)
 ##### 🤝  [We should work together, how can i join you?](#contact)(in progress)
@@ -39,16 +39,16 @@ In high school, i decided that i would go after Computer Sciences studies. I lov
 
 &emsp; &emsp;![badge](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white&color=purple)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![50%](https://progress-bar.dev/70)  
 &emsp; &emsp;![badge](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![50%](https://progress-bar.dev/70)   
-&emsp; &emsp;![badge](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&emsp;&emsp;&emsp;![50%](https://progress-bar.dev/60)   
+&emsp; &emsp;![badge](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&emsp;&emsp;&emsp;&emsp;![50%](https://progress-bar.dev/60)   
 &emsp; &emsp;![badge](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)&emsp;&emsp;&emsp;![50%](https://progress-bar.dev/40)   
-&emsp; &emsp;![badge](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![50%](https://progress-bar.dev/88)   
+&emsp; &emsp;![badge](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)&emsp;&emsp;&emsp;&emsp;![50%](https://progress-bar.dev/88)   
 &emsp; &emsp;![badge](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>)&emsp;&emsp;&emsp;&emsp;&emsp; &emsp; ![50%](https://progress-bar.dev/50)   
 * #### Frameworks  - Libraries
 
 &emsp; &emsp;![badge](https://img.shields.io/badge/dotnet-net%23239120.svg?&style=for-the-badge&logo=.net&logoColor=white&color=purple)&emsp;&emsp;&emsp;&emsp;&emsp; ![50%](https://progress-bar.dev/70)  
 &emsp; &emsp;![badge](https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)&emsp;&emsp;&emsp;&emsp;&emsp; ![50%](https://progress-bar.dev/40)   
 
-&emsp; &emsp;![badge](https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)&emsp;&emsp;&emsp;&emsp;&emsp; ![50%](https://progress-bar.dev/60)   
+&emsp; &emsp;![badge](https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)&emsp;&emsp;&emsp;&emsp;&emsp;![50%](https://progress-bar.dev/60)   
 &emsp; &emsp;![badge](https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white)&emsp;&emsp;&emsp;&emsp; ![50%](https://progress-bar.dev/30)   
 &emsp; &emsp;![badge](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)&emsp;&emsp;&emsp; &emsp; &emsp; ![50%](https://progress-bar.dev/55)   
    
@@ -61,7 +61,7 @@ In high school, i decided that i would go after Computer Sciences studies. I lov
 &emsp; &emsp;![badge](https://img.shields.io/badge/github%20-%23DD0031.svg?&style=for-the-badge&logo=github&logoColor=white&color=black)&emsp;&emsp;&emsp;&emsp; &emsp;![50%](https://progress-bar.dev/70)   
 &emsp; &emsp;![badge](https://img.shields.io/badge/Git%20-%23DD0031.svg?&style=for-the-badge&logo=git&logoColor=white&color=grey)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp; ![50%](https://progress-bar.dev/80)   
   * #### Package Manager
-  &emsp; &emsp;![badge](https://img.shields.io/badge/NPM%20-%23DD0031.svg?&style=for-the-badge&logo=npm&Color=red)&emsp;&emsp; &emsp;&emsp; &emsp; &emsp; ![50%](https://progress-bar.dev/70)   
+&emsp; &emsp;![badge](https://img.shields.io/badge/NPM%20-%23DD0031.svg?&style=for-the-badge&logo=npm&Color=red)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![50%](https://progress-bar.dev/70)   
 
 
   ... in progress
