@@ -30,7 +30,7 @@ Now let's do our best not to fail, and grow together working on all the upcoming
 ### Why did you become a developper ? 💻 <a name="fieldmotivation"></a>
 ![enter image description here](https://img.shields.io/badge/teamwork-brown) ![enter image description here](https://img.shields.io/badge/infinite_learning-blue) ![enter image description here](https://img.shields.io/badge/creativity-green) ![enter image description here](https://img.shields.io/badge/challenge-purple) 
 > 
-> I did not start to code when i was 7yo, believe it or not. I've always had a look on how could work a program, like games i used to play as a teenager. I remember being introduced by my father to code when i was a kid. He would show me how great the game he made was great. It was a little achievement, but he was proud of it, and that's all that mattered i guess.
+> I did not start to code when i was 7yo, believe it or not. I've always had a look on how could work a program, like games i used to play as a teenager. I remember being introduced by my father to coding when i was a kid. He would show me how great was the game he just made. It was a little achievement, but he was proud of it, and that's all that mattered i guess.
 In high school, i decided that i would go after Computer Sciences studies. I loved Sciences, and i desired the most a domain where i could be creative, where i could learn most by myself, with the help of others, and not the other way around. If you plan to go to computer sciences because "i'll get a job 100%", trust me, you're the wrong way. You'll need to have, or build passion.
    That was my new challenge, and  here we are. I'm mainly into back-end dev for now. Might change, but i feel better close to datas  😁
    
