@@ -37,7 +37,7 @@ In high school, i decided that i would go after Computer Sciences studies. I lov
   ### What technologies are you using and interested in? 🧰 <a name="techs"></a>
 *  #### Languages 
 
-&emsp;&emsp;![badge](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white&color=purple)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![50%](https://progress-bar.dev/70)  
+&emsp; &emsp;![badge](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white&color=purple)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![50%](https://progress-bar.dev/70)  
 &emsp; &emsp;![badge](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![50%](https://progress-bar.dev/70)   
 &emsp; &emsp;![badge](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&emsp;&emsp;&emsp;![50%](https://progress-bar.dev/60)   
 &emsp; &emsp;![badge](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)&emsp;&emsp;&emsp;![50%](https://progress-bar.dev/40)   
