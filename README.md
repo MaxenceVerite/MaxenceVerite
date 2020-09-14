@@ -87,7 +87,7 @@ In high school, i decided that i would go after Computer Sciences studies. I lov
 
  ### We should work together, how can i join you? 🤝 <a name="contact"></a>
  
- If you have opportunies that could fit my skills, or if you desire to reach me up for whatever reason, don't hesitate no more and hit me up on my social media
+ If you have opportunies that could fit my skills, or if you desire to reach me up for whatever reason, don't hesitate no more and hit me up on my social medias
  
 
 [
