@@ -1,6 +1,12 @@
 [
 ![linkedin](https://img.shields.io/badge/Maxence_Vérité-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)
-](https://www.linkedin.com/in/maxence-verite/)
+](https://www.linkedin.com/in/maxence-verite/) [
+![gmail](https://img.shields.io/badge/p.verite.maxence@gmail.com-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=brown)
+](mailto:p.verite.maxence@gmail.com) [
+![github](https://img.shields.io/badge/MaxenceVerite-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white&color=grey)
+](https://github.com/MaxenceVerite)[
+![github](https://img.shields.io/badge/+3383874536-%230077B5.svg?&style=for-the-badge&logo=whatsapp&logoColor=white&color=green)
+](tel:+33683874536)
 
 Welcome on my Github ! I'm a web developper living in Lille, France. 
 I'd be please to join your project, dial with you about your society opportunities or whatever you like. 
@@ -13,8 +19,8 @@ Hit me up, i love to meet new people 😄
 ##### ✊  [What do you stand for?](#values)
 ##### 💻 [Why did you become a developper?](#fieldmotivation)
 ##### 🧰  [What technologies are you using and interested in?](#techs)
-##### 🚵 [What do you spend your time on when you're not working](#hobbies)(in progress)
-##### 🤝  [We should work together, how can i join you?](#contact)(in progress)
+##### 🚵 [What do you spend your time on when you're not coding](#hobbies)
+##### 🤝  [We should work together, how can i join you?](#contact)
 
 
 ### How do you describe your self ? 🙋‍♂️<a name="self"></a>
@@ -74,9 +80,25 @@ In high school, i decided that i would go after Computer Sciences studies. I lov
 |:-------------------------:|:-------------------------:|
 |![badge](https://img.shields.io/badge/NPM%20-%23DD0031.svg?&style=for-the-badge&logo=npm&Color=red)|![50%](https://progress-bar.dev/70)|   
 
+### What do you spend your time on when you're not working ? 🚵 <a name="hobbies"></a>
+![enter image description here](https://img.shields.io/badge/gaming-brown) ![enter image description here](https://img.shields.io/badge/cooking-blue) ![enter image description here](https://img.shields.io/badge/sport-green) ![enter image description here](https://img.shields.io/badge/politics-yellow) ![enter image description here](https://img.shields.io/badge/fast_media-orange)
 
-  ... in progress
+> I love gaming and video game as an art. I've experienced so much, met so many people whose have got endless laughter with. From multiplayer online game to solo chill ones,   i've always been playing and think it won't stop. It gives me land to let off steam. I also love cooking, trying out new recipee with a bit of improvisation, inviting people for a diner. I love cinema, politics, sciences, and i consume alot of media videos like news, on Youtube mainly. I'm up for a drink as well, but it can only be done if you hit me up 🍻
 
+ ### We should work together, how can i join you? 🤝 <a name="contact"></a>
+ 
+ If you have opportunies that could fit my skills, or if you desire to reach me up for whatever reason, don't hesitate no more and hit me up on my social media
+ 
+
+[
+![linkedin](https://img.shields.io/badge/Maxence_Vérité-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)
+](https://www.linkedin.com/in/maxence-verite/) [
+![gmail](https://img.shields.io/badge/p.verite.maxence@gmail.com-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=brown)
+](mailto:p.verite.maxence@gmail.com) [
+![github](https://img.shields.io/badge/MaxenceVerite-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white&color=grey)
+](https://github.com/MaxenceVerite)[
+![github](https://img.shields.io/badge/+3383874536-%230077B5.svg?&style=for-the-badge&logo=whatsapp&logoColor=white&color=green)
+](tel:+33683874536)
 
 
 
