@@ -46,7 +46,7 @@ In high school, i decided that i would go after Computer Sciences studies. I lov
    That was my new challenge, and  here we are. I'm mainly into back-end dev for now. Might change, but i feel better close to datas  😁
    
   ### What technologies are you using and interested in? 🧰 <a name="techs"></a>
-*  #### Languages 
+  #### Languages 
 
 | | | 
 |:-------------------------:|:-------------------------:|
@@ -74,7 +74,7 @@ In high school, i decided that i would go after Computer Sciences studies. I lov
 |:-------------------------:|:-------------------------:|
 |![badge](https://img.shields.io/badge/Windows%20-%23DD0031.svg?&style=for-the-badge&logo=windows&logoColor=darkblue&color=blue)|![50%](https://progress-bar.dev/70)|   
 |![badge](https://img.shields.io/badge/Linux%20-%23DD0031.svg?&style=for-the-badge&logo=linux&logoColor=black&color=green)|![50%](https://progress-bar.dev/70)|   
-  * #### Tools
+   #### Tools
 | | | 
 |:-------------------------:|:-------------------------:|
 |![badge](https://img.shields.io/badge/Postman%20-%23DD0031.svg?&style=for-the-badge&logo=postman&logoColor=orange&color=blue)|![50%](https://progress-bar.dev/70)| 
