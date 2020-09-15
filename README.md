@@ -5,7 +5,7 @@
 ](mailto:p.verite.maxence@gmail.com) [
 ![github](https://img.shields.io/badge/MaxenceVerite-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white&color=grey)
 ](https://github.com/MaxenceVerite)[
-![github](https://img.shields.io/badge/+3383874536-%230077B5.svg?&style=for-the-badge&logo=whatsapp&logoColor=white&color=green)
+![github](https://img.shields.io/badge/+33683874536-%230077B5.svg?&style=for-the-badge&logo=whatsapp&logoColor=white&color=green)
 ](tel:+33683874536)
 
 <div align="center">
@@ -23,7 +23,7 @@ Hit me up, i love to meet new people 😄
 #### 🧰  [What technologies are you using and interested in?](#techs)
 #### 🚵 [What do you spend your time on when you're not coding](#hobbies)
 #### 🤝  [We should work together, how can i join you?](#contact)
-</div>
+
 <br/>
 
 ### How do you describe your self ? 🙋‍♂️<a name="self"></a>
@@ -100,9 +100,9 @@ In high school, i decided that i would go after Computer Sciences studies. I lov
 ](mailto:p.verite.maxence@gmail.com) [
 ![github](https://img.shields.io/badge/MaxenceVerite-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white&color=grey)
 ](https://github.com/MaxenceVerite)[
-![github](https://img.shields.io/badge/+3383874536-%230077B5.svg?&style=for-the-badge&logo=whatsapp&logoColor=white&color=green)
+![github](https://img.shields.io/badge/+33683874536-%230077B5.svg?&style=for-the-badge&logo=whatsapp&logoColor=white&color=green)
 ](tel:+33683874536)
 
-
+</div>
 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
