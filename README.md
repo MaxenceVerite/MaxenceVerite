@@ -15,12 +15,12 @@ Hit me up, i love to meet new people 😄
 
 
 
-##### 🙋🏻‍♂️[How do you describe your self?](#self)
-##### ✊  [What do you stand for?](#values)
-##### 💻 [Why did you become a developper?](#fieldmotivation)
-##### 🧰  [What technologies are you using and interested in?](#techs)
-##### 🚵 [What do you spend your time on when you're not coding](#hobbies)
-##### 🤝  [We should work together, how can i join you?](#contact)
+#### 🙋🏻‍♂️[How do you describe your self?](#self)
+#### ✊  [What do you stand for?](#values)
+#### 💻 [Why did you become a developper?](#fieldmotivation)
+#### 🧰  [What technologies are you using and interested in?](#techs)
+#### 🚵 [What do you spend your time on when you're not coding](#hobbies)
+#### 🤝  [We should work together, how can i join you?](#contact)
 
 
 ### How do you describe your self ? 🙋‍♂️<a name="self"></a>
