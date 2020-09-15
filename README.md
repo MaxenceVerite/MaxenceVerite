@@ -1,3 +1,5 @@
+<div align="center">
+
 [
 ![linkedin](https://img.shields.io/badge/Maxence_Vérité-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)
 ](https://www.linkedin.com/in/maxence-verite/) [
@@ -8,7 +10,7 @@
 ![github](https://img.shields.io/badge/+33683874536-%230077B5.svg?&style=for-the-badge&logo=whatsapp&logoColor=white&color=green)
 ](tel:+33683874536)
 
-<div align="center">
+
    
 Welcome on my Github ! I'm a web developper living in Lille, France. 
 I'd be please to join your project, dial with you about your society opportunities or whatever you like. 
@@ -53,8 +55,10 @@ In high school, i decided that i would go after Computer Sciences studies. I lov
 |![badge](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)|![50%](https://progress-bar.dev/60)|  
 |![badge](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)|![50%](https://progress-bar.dev/40)   
 |![badge](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)|![50%](https://progress-bar.dev/88)|  
-|![badge](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>)|![50%](https://progress-bar.dev/50)|  
-* #### Frameworks  - Libraries
+|![badge](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>)|![50%](https://progress-bar.dev/50)| 
+
+ #### Frameworks  - Libraries
+ 
 | | | 
 |:-------------------------:|:-------------------------:|
 |![badge](https://img.shields.io/badge/dotnet-net%23239120.svg?&style=for-the-badge&logo=.net&logoColor=white&color=purple)|![50%](https://progress-bar.dev/70)|  
@@ -64,7 +68,8 @@ In high school, i decided that i would go after Computer Sciences studies. I lov
 |![badge](https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white)|![50%](https://progress-bar.dev/30)| 
 |![badge](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)|![50%](https://progress-bar.dev/55)| 
    
-  * #### OS
+   #### OS
+   
 | | | 
 |:-------------------------:|:-------------------------:|
 |![badge](https://img.shields.io/badge/Windows%20-%23DD0031.svg?&style=for-the-badge&logo=windows&logoColor=darkblue&color=blue)|![50%](https://progress-bar.dev/70)|   
@@ -72,13 +77,18 @@ In high school, i decided that i would go after Computer Sciences studies. I lov
   * #### Tools
 | | | 
 |:-------------------------:|:-------------------------:|
-|![badge](https://img.shields.io/badge/Postman%20-%23DD0031.svg?&style=for-the-badge&logo=postman&logoColor=orange&color=blue)|![50%](https://progress-bar.dev/70)|   
-  * #### Versioning
+|![badge](https://img.shields.io/badge/Postman%20-%23DD0031.svg?&style=for-the-badge&logo=postman&logoColor=orange&color=blue)|![50%](https://progress-bar.dev/70)| 
+
+  #### Versioning
+  
 | | | 
 |:-------------------------:|:-------------------------:|
 |![badge](https://img.shields.io/badge/github%20-%23DD0031.svg?&style=for-the-badge&logo=github&logoColor=white&color=black)|![50%](https://progress-bar.dev/70)|   
 |![badge](https://img.shields.io/badge/Git%20-%23DD0031.svg?&style=for-the-badge&logo=git&logoColor=white&color=grey)| ![50%](https://progress-bar.dev/80)|   
-  * #### Package Manager
+
+  #### Package Manager
+  
+  
 | | | 
 |:-------------------------:|:-------------------------:|
 |![badge](https://img.shields.io/badge/NPM%20-%23DD0031.svg?&style=for-the-badge&logo=npm&Color=red)|![50%](https://progress-bar.dev/70)|   
