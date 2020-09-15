@@ -13,7 +13,7 @@ I'd be please to join your project, dial with you about your society opportuniti
 Hit me up, i love to meet new people 😄
 
 
-
+<div align="center">
 
 #### 🙋🏻‍♂️[How do you describe your self?](#self)
 #### ✊  [What do you stand for?](#values)
@@ -21,7 +21,7 @@ Hit me up, i love to meet new people 😄
 #### 🧰  [What technologies are you using and interested in?](#techs)
 #### 🚵 [What do you spend your time on when you're not coding](#hobbies)
 #### 🤝  [We should work together, how can i join you?](#contact)
-
+</div>
 
 ### How do you describe your self ? 🙋‍♂️<a name="self"></a>
 ![enter image description here](https://img.shields.io/badge/curious-brown) ![enter image description here](https://img.shields.io/badge/sharer-blue) ![enter image description here](https://img.shields.io/badge/down_to_earth-green) ![enter image description here](https://img.shields.io/badge/sincere-purple) ![enter image description here](https://img.shields.io/badge/cheerful-yellow) 
